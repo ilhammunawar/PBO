@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project Akhir PBO\\ProjectAkhirPBO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD808A0-5230-40C2-965F-05BE7F502519}|ProjectAkhirPBO\\ProjectAkhirPBO.csproj|d:\\project akhir pbo\\projectakhirpbo\\projectakhirpbo\\model\\ruangancls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD808A0-5230-40C2-965F-05BE7F502519}|ProjectAkhirPBO\\ProjectAkhirPBO.csproj|solutionrelative:projectakhirpbo\\model\\ruangancls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD808A0-5230-40C2-965F-05BE7F502519}|ProjectAkhirPBO\\ProjectAkhirPBO.csproj|d:\\project akhir pbo\\projectakhirpbo\\projectakhirpbo\\konfigurasi\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD808A0-5230-40C2-965F-05BE7F502519}|ProjectAkhirPBO\\ProjectAkhirPBO.csproj|solutionrelative:projectakhirpbo\\konfigurasi\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD808A0-5230-40C2-965F-05BE7F502519}|ProjectAkhirPBO\\ProjectAkhirPBO.csproj|D:\\Project Akhir PBO\\ProjectAkhirPBO\\projectakhirpbo\\ruangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD808A0-5230-40C2-965F-05BE7F502519}|ProjectAkhirPBO\\ProjectAkhirPBO.csproj|solutionrelative:projectakhirpbo\\ruangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD808A0-5230-40C2-965F-05BE7F502519}|ProjectAkhirPBO\\ProjectAkhirPBO.csproj|D:\\Project Akhir PBO\\ProjectAkhirPBO\\projectakhirpbo\\ruangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CD808A0-5230-40C2-965F-05BE7F502519}|ProjectAkhirPBO\\ProjectAkhirPBO.csproj|solutionrelative:projectakhirpbo\\ruangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD808A0-5230-40C2-965F-05BE7F502519}|ProjectAkhirPBO\\ProjectAkhirPBO.csproj|D:\\Project Akhir PBO\\ProjectAkhirPBO\\projectakhirpbo\\pendaftaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD808A0-5230-40C2-965F-05BE7F502519}|ProjectAkhirPBO\\ProjectAkhirPBO.csproj|solutionrelative:projectakhirpbo\\pendaftaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\Project Akhir PBO\\ProjectAkhirPBO\\ProjectAkhirPBO\\konfigurasi\\Koneksi.cs",
+              "RelativeDocumentMoniker": "ProjectAkhirPBO\\konfigurasi\\Koneksi.cs",
+              "ToolTip": "D:\\Project Akhir PBO\\ProjectAkhirPBO\\ProjectAkhirPBO\\konfigurasi\\Koneksi.cs",
+              "RelativeToolTip": "ProjectAkhirPBO\\konfigurasi\\Koneksi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:36:36.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RuanganCls.cs",
+              "DocumentMoniker": "D:\\Project Akhir PBO\\ProjectAkhirPBO\\ProjectAkhirPBO\\model\\RuanganCls.cs",
+              "RelativeDocumentMoniker": "ProjectAkhirPBO\\model\\RuanganCls.cs",
+              "ToolTip": "D:\\Project Akhir PBO\\ProjectAkhirPBO\\ProjectAkhirPBO\\model\\RuanganCls.cs",
+              "RelativeToolTip": "ProjectAkhirPBO\\model\\RuanganCls.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAwIAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:13:28.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ruangan.cs",
+              "DocumentMoniker": "D:\\Project Akhir PBO\\ProjectAkhirPBO\\ProjectAkhirPBO\\Ruangan.cs",
+              "RelativeDocumentMoniker": "ProjectAkhirPBO\\Ruangan.cs",
+              "ToolTip": "D:\\Project Akhir PBO\\ProjectAkhirPBO\\ProjectAkhirPBO\\Ruangan.cs",
+              "RelativeToolTip": "ProjectAkhirPBO\\Ruangan.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwCYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:10:53.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ruangan.cs [Design]",
+              "DocumentMoniker": "D:\\Project Akhir PBO\\ProjectAkhirPBO\\ProjectAkhirPBO\\Ruangan.cs",
+              "RelativeDocumentMoniker": "ProjectAkhirPBO\\Ruangan.cs",
+              "ToolTip": "D:\\Project Akhir PBO\\ProjectAkhirPBO\\ProjectAkhirPBO\\Ruangan.cs [Design]",
+              "RelativeToolTip": "ProjectAkhirPBO\\Ruangan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:10:23.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pendaftaran.cs",
+              "DocumentMoniker": "D:\\Project Akhir PBO\\ProjectAkhirPBO\\ProjectAkhirPBO\\Pendaftaran.cs",
+              "RelativeDocumentMoniker": "ProjectAkhirPBO\\Pendaftaran.cs",
+              "ToolTip": "D:\\Project Akhir PBO\\ProjectAkhirPBO\\ProjectAkhirPBO\\Pendaftaran.cs",
+              "RelativeToolTip": "ProjectAkhirPBO\\Pendaftaran.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwDkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:00:12.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
